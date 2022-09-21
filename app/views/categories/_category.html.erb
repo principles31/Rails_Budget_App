@@ -1,0 +1,20 @@
+<%= stylesheet_link_tag('try')  %>
+<div>
+<section class= "category_card">
+
+<div class="category-data">
+<div class="iimg-icon">
+<%= image_tag category.icon, skip_pipeline: true, class:'icon'%>
+</div>
+<div class="name-date">
+<h2 class= "category_name"> <%= category.name %></h2>
+ <span class="bottom_data">
+      <time data="<%= category.created_at %>" class="date"> DATE: <%= category.created_at.strftime("%e %B %Y") %></time>
+ </span>
+ </div>
+<span class= "category_total"><%= number_to_currency(category.total_amount)%></span>
+</div>
+</section> 
+</div> 
+
+
