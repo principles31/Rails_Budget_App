@@ -1,7 +1,7 @@
 # Rails_Budget_App
 # ![](https://img.shields.io/badge/Microverse-blueviolet) 
 
-## [Live Version] (https://glistening-genie-b4e4f6.netlify.app)
+## [Live Version] (https://fathomless-crag-34030.herokuapp.com/)
 )
 ## [Video Description](https://www.loom.com/share/736cd060751b45879c4b31e8f6794720)
 
