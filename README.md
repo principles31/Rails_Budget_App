@@ -2,8 +2,9 @@
 # ![](https://img.shields.io/badge/Microverse-blueviolet) Budget-App-rails
 > ** This is a Budget App
 
-## [Live Version](https://fathomless-crag-34030.herokuapp.com/)
-## [Video Description](https://www.loom.com/share/2ab2b6493400462f8f9aa8d50e1df5ff)
+## [Live Version]
+)
+## [Video Description](https://www.loom.com/share/736cd060751b45879c4b31e8f6794720)
 ![budgetApp](https://user-images.githubusercontent.com/98400013/190477385-c42da0cf-89e6-46a3-a5aa-b07a44631b27.png)
 
 
