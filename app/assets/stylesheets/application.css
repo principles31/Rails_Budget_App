@@ -1,0 +1,31 @@
+ .img-transaction {
+    width: 120px !important;
+    height: 120px !important;
+ }
+
+ .trans-img-div {
+    display: flex;
+    justify-content: center !important;
+ }
+ 
+ .show-transaction {
+   text-decoration: none;
+   
+ }
+
+ .navbar-light .navbar-nav .nav-link {
+   color: #eee !important;
+}
+
+.new-link {
+   color: red;
+}
+
+.user_profile {
+   width: 100px;
+   height: 100px
+}
+
+body{
+   background-color: red;
+}
