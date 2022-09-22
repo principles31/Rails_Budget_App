@@ -1,17 +1,14 @@
 # Rails_Budget_App
-# ![](https://img.shields.io/badge/Microverse-blueviolet) Budget-App-rails
-> ** This is a Budget App
+# ![](https://img.shields.io/badge/Microverse-blueviolet) 
 
 ## [Live Version]
 )
 ## [Video Description](https://www.loom.com/share/736cd060751b45879c4b31e8f6794720)
-![budgetApp](https://user-images.githubusercontent.com/98400013/190477385-c42da0cf-89e6-46a3-a5aa-b07a44631b27.png)
 
+![budgetApp](https://user-images.githubusercontent.com/98400013/190477385-c42da0cf-89e6-46a3-a5aa-b07a44631b27.png)
 
 ## ER Diagram
 <img width="374" alt="erd_diagram" src="https://user-images.githubusercontent.com/98400013/190478182-31f80a0f-be61-44f5-aff4-341e50d898a4.png">
-
-
 
 
 ## Built With
@@ -52,7 +49,6 @@ In your browser, go to
 - To install rspec: gem install rspec
 - To run all the tests: rspec ./spec
 
-
 ## Author
 
 👤   **Emmanuel Mensah**
@@ -60,7 +56,6 @@ In your browser, go to
 - GitHub: [@principle31](https://github.com/principles31)
 - Twitter: [@manuel31mens](https://Twiter.com/@Manuel31mens)
 - LinkedIn: [emmanuel-mensah](www.linkedin.com/in/emmanuel-mensah-)
-
 
 ## 🤝 Contributing
 
